@@ -10,7 +10,7 @@ Sou uma estudante apaixonada por tecnologia e pelo impacto que ela pode gerar no
 
 ## Habilidades:
 - **Linguagens:** JavaScript, Python
-- **Bancos de Dados:** MySQL
+- **Bancos de Dados:** MySQL, sqlite3
 - **Modelagem e Retexturização:** .ytd, .ydd, .yft
 
 ## Estatísticas do GitHub
