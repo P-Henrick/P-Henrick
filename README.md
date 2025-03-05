@@ -11,7 +11,7 @@ Sou uma estudante apaixonada por tecnologia e pelo impacto que ela pode gerar no
 ## Habilidades:
 - **Linguagens:** JavaScript, Python
 - **Bancos de Dados:** MySQL, sqlite3
-- **Modelagem e Retexturização:** .ytd, .ydd, .yft
+- **Modelagem e Retexturização:** .ytd, .ydd, .yft, .meta, .lua
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de Henrick](https://github-readme-stats-beta-red.vercel.app/api?username=P-Henrick&show_icons=true&theme=radical&cache_seconds=3600)
