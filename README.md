@@ -4,10 +4,9 @@
 Sou uma estudante apaixonada por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas. Estou sempre explorando novas ferramentas, linguagens e soluções para criar sistemas práticos e funcionais.
 
 - 💻 Atualmente estou desenvolvendo vários projetos empolgantes.
-- 🌱 Estou aprendendo JavaScript avançado.
-- 👯 Estou buscando colaborar em projetos de código aberto.
-- 🤔 Estou procurando ajuda para melhorar minhas habilidades em DevOps.
-- ⚡ Curiosidade: Eu adoro jogar e fazer crochê.
+- 🌱 Estou expandindo minhas habilidades em Python.
+- 🤔 Estou procurando ajuda para melhorar minhas habilidades em JavaScript.
+- ⚡ Curiosidade: Meu primeiro código foi um bot pra discord.
 
 ## Habilidades:
 - **Linguagens:** JavaScript, Python
