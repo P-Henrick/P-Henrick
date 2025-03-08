@@ -1,7 +1,7 @@
 # Olá, mundo! Meu nome é Henrick. 👋
 
 ## Sobre mim:
-Sou uma estudante apaixonada por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas. Estou sempre explorando novas ferramentas, linguagens e soluções para criar sistemas práticos e funcionais.
+Sou um estudante apaixonado por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas. Estou sempre explorando novas ferramentas, linguagens e soluções para criar sistemas práticos e funcionais.
 
 - 💻 Atualmente estou desenvolvendo vários projetos empolgantes.
 - 🌱 Estou expandindo minhas habilidades em Python.
@@ -14,4 +14,4 @@ Sou uma estudante apaixonada por tecnologia e pelo impacto que ela pode gerar no
 - **Modelagem e Retexturização:** .ytd, .ydd, .yft, .meta, .lua
 
 ## Estatísticas do GitHub
-[![GitHub status do Henrick](https://github-readme-stats-five-sepia-61.vercel.app/api?username=P-Henrick&show_icons=true&theme=transparent&title_color=800080&icon_color=eabfff&text_color=324aa8&cache_seconds=3600)](https://github.com/P-Henrick/github-readme-stats)
+[![GitHub status do Henrick](https://github-readme-stats-five-sepia-61.vercel.app/api?username=P-Henrick&show_icons=true&theme=transparent&title_color=324aa8&icon_color=324aa8&text_color=324aa8&cache_seconds=3600)](https://github.com/P-Henrick/github-readme-stats)
