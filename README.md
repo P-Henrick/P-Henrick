@@ -14,4 +14,4 @@ Sou uma estudante apaixonada por tecnologia e pelo impacto que ela pode gerar no
 - **Modelagem e Retexturização:** .ytd, .ydd, .yft, .meta, .lua
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub de Henrick](https://github-readme-stats-beta-red.vercel.app/api?username=P-Henrick&show_icons=true&theme=radical&cache_seconds=3600)
+[![GitHub status do Henrick](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/P-Henrick/github-readme-stats)
